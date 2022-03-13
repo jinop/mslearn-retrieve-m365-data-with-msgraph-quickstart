@@ -1,4 +1,4 @@
-//MSAL configuration
+//MSAL configuration - test
 const msalConfig = {
     auth: {
         clientId: 'a3f36d22-cff4-44e8-b0a5-8bc8bb68109c',
